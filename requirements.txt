@@ -1,0 +1,7 @@
+requests
+numpy
+pandas
+dash
+discord-webhook
+beautifulsoup4
+dash_bootstrap_components
